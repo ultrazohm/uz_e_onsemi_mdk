@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\ga92wum\git\UltraZohm\PCB\UZ_E_OnSemi_MDK\MDK_UltraZohm_Adapter.PcbDoc
+RuleKind=Width|RuleName=SDIO_PS|Scope=Board|Minimum=3.92
+RuleKind=Width|RuleName=SDIO|Scope=Board|Minimum=3.92
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for MDK_UltraZohm_Adapter
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -258,7 +258,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AXWARAHT
 
 [Document14]
 DocumentPath=libs\ultrazohm_digital_voltage_3U_1vxx.PcbLib
@@ -326,6 +326,23 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=CWEYJQIH
+
+[Document18]
+DocumentPath=OutputJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
@@ -339,6 +356,70 @@ Variation2=Designator=C4|UniqueId=\IEQMJNFY\QFLWYJQU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\BOM\BOM_MDK_UltraZohm_Adapter_1v00.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\NC Drill\MDK_UltraZohm_Adapter.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\NC Drill\MDK_UltraZohm_Adapter.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Gerber\MDK_UltraZohm_Adapter.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\NC Drill\MDK_UltraZohm_Adapter.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Powerboard_Conector_2.NET
 DItemRevisionGUID=
 
@@ -363,7 +444,7 @@ Name=Date
 Value=02/2021
 
 [Parameter6]
-Name=Author
+Name=AuthorParam
 Value=Eugen Romaschenko
 
 [Configuration1]
@@ -413,7 +494,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for MDK_UltraZohm_Adapter
 
 [OutputGroup1]
 Name=Netlist Outputs
