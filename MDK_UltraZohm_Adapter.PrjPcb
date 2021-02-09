@@ -294,6 +294,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document16]
+DocumentPath=..\PCB_Libraries\templates\PCB_Logo\PCB_Logo.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=..\PCB_Libraries\templates\PCB_Logo\PCB_Logo.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=E8BF96EC-9F01-4216-A66C-E68E03CB27F8
 Description=Standard
@@ -309,32 +343,28 @@ DocumentPath=Project Outputs for MDK_UltraZohm_Adapter\Powerboard_Conector_2.NET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=AuthorParam
-Value=Eugen Romaschenko
+Name=ProjectRevision
+Value=1v00
 
 [Parameter2]
-Name=GlobalApprovedBy
-Value=Daniel Pruna
+Name=ProjectName
+Value=UZ_OnSemi_Adapter
 
 [Parameter3]
 Name=GlobalAuthor
-Value=Tobias R.
+Value=Eyke Liegmann
 
 [Parameter4]
-Name=GlobalRevision
-Value=Rev. 1
+Name=GlobalApprovedBy
+Value=Daniel Pruna
 
 [Parameter5]
-Name=ProjectRevision
-Value=1
+Name=Date
+Value=02/2021
 
 [Parameter6]
-Name=ProjectTitle
-Value=FPGA Motorcontrol Interface Adapter
-
-[Parameter7]
-Name=title
-Value=FPGA Motor Control Adapter
+Name=Author
+Value=Eugen Romaschenko
 
 [Configuration1]
 Name=Sources
