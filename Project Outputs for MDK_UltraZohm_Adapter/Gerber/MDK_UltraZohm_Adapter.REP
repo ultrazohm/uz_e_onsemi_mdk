@@ -2,6 +2,48 @@
 FileName = MDK_UltraZohm_Adapter.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 1
+      File : MDK_UltraZohm_Adapter.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MDK_UltraZohm_Adapter.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D13
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MDK_UltraZohm_Adapter.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : MDK_UltraZohm_Adapter.GBS
 
@@ -47,63 +89,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : MDK_UltraZohm_Adapter.GM1
+Generating : Top Paste
+      File : MDK_UltraZohm_Adapter.GTP
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Paste
 
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : MDK_UltraZohm_Adapter.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D13
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : MDK_UltraZohm_Adapter.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : MDK_UltraZohm_Adapter.GBL
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D13
+    D17
     D18
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
 *************************************************************
 
 *************************************************************
@@ -133,10 +139,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : MDK_UltraZohm_Adapter.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : MDK_UltraZohm_Adapter.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -144,33 +148,30 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D13
     D18
+    D40
+    D41
     D42
     D43
     D44
+    D45
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : MDK_UltraZohm_Adapter.GTP
+Generating : Top Overlay
+      File : MDK_UltraZohm_Adapter.GTO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
 *************************************************************
 
