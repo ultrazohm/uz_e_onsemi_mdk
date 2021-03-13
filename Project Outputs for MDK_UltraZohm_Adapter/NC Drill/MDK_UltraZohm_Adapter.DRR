@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: MDK_UltraZohm_Adapter.PcbDoc   15.02.2021  12:06:41
+NCDrill File Report For: MDK_UltraZohm_Adapter.PcbDoc   13.03.2021  18:36:23
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,8 +8,10 @@ ASCII RoundHoles File : MDK_UltraZohm_Adapter.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      12mil (0.3mm)                                             Round             118       PTH        0.00inch (0.00mm)
-T2      126mil (3.2mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T3      51mil (1.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T4      126mil (3.2mm)                                            Round             2         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              120
+Totals                                                                              124
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

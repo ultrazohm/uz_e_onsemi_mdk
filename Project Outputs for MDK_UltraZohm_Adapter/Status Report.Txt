@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [MDK_UltraZohm_Adapter.PcbDoc]
-   Generated File[MDK_UltraZohm_Adapter.TXT]
-   Generated File[MDK_UltraZohm_Adapter.LDP]
-   Generated File[MDK_UltraZohm_Adapter.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 18:36:30 On 13.03.2021
+
+Output: BOM JLCPCB
+Type  : BOM
+From  : Variant [Standard] of Project [MDK_UltraZohm_Adapter.PrjPcb]
+   Generated File[BOM_MDK_UltraZohm_Adapter_Rev02.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:06:42 On 15.02.2021
+Finished Output Generation At 18:36:35 On 13.03.2021
